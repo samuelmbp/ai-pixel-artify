@@ -1,1 +1,1 @@
-# ai-pixel-artify
+# AI Pixel Artify
