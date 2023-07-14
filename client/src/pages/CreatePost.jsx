@@ -35,7 +35,7 @@ const CreatePost = () => {
       } finally {
         setGeneratingImg(false);
       }
-    } else {
+    } else { 
       alert("Please enter a prompt");
     }
   };
