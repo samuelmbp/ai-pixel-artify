@@ -1,6 +1,8 @@
 # AI Pixel Artify
 
-Full Stack ai image generation web application.
+AI Pixel Artify is a full-stack web application that utilizes artificial intelligence to generate unique and creative images. With a minimalistic design, dynamic image layout, and interactive features, this application empowers users to explore and personalize AI-generated artwork.
+
+The hover effect on each image provides a unique prompt, inviting users to generate their own AI images by incorporating their names. The app offers image downloads, search functionality, and the option to create new AI images either through a surprise button or by entering custom prompts. Sharing capabilities create a lively community where users can display and share their favorite AI-generated images with others.
 
 ## Getting Started
 
@@ -18,22 +20,19 @@ To get started with AI Pixel Artify, follow these steps:
 7. `cd /server` and run `npm start` to start the server
 8. Open your web browser and navigate to `http://localhost:5173/` to access AI Pixel Artify.
 
-
 ## Usage
 
 `Note:` </br>
-To generate an image based on a prompt, `you must enter your name`. 
+To generate an image based on a prompt, `you must enter your name`.
 
 If you visit the link of the web application (hosted on netlify), you might have to wait for 10-15 seconds(only for the first time) to see all the images as the `render` cloud application server provider takes a while to receive the requests.
 
 ### Overview
 
 - Minimal design
-- Dynamic image layout 
+- Dynamic image layout
 - Hover effect on each image that showcases a users prompt to generate each AI image with their name
-- Can download any image 
-- Search functionality 
-- Create new AI images by clicking the surprise me button or by entering any prompt of your choice 
+- Can download any image
+- Search functionality
+- Create new AI images by clicking the surprise me button or by entering any prompt of your choice
 - Share the posts with the community
-
-
