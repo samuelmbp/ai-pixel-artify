@@ -25,7 +25,7 @@ To get started with AI Pixel Artify, follow these steps:
 `Note:` </br>
 To generate an image based on a prompt, `you must enter your name`.
 
-If you visit the link of the web application (hosted on netlify), you might have to wait for 10-15 seconds(only for the first time) to see all the images as the `render` cloud application server provider takes a while to receive the requests.
+The backend of the application is hosted on Render, so it might take a while to load the content. I appreciate your patience and hope you enjoy using the app.
 
 ### Overview
 
